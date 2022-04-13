@@ -9,9 +9,10 @@
 - :office: &nbsp;I'm currently building airmyca and looking for opportunities
 - :speech_balloon: &nbsp;I like to talk about **Mobile Development(React Native & Flutter)** and **Web Development(JavaScript)**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-- :bird: &nbsp;Let's talk more in **[Twitter]**
-
+- :computer: &nbsp;Connect with me on **[Linkedin]**(https://www.linkedin.com/in/imsakararyal/)
+- 
+- :bird: &nbsp;Let's talk more in **[Twitter]**(https://twitter.com/SaakaarAryal)
+[dill]: <https://github.com/joemccann/dillinger>
 <br>
 
 <h2 align="left" id="sakararyal-tech">Favorite Tech</h2>
@@ -20,7 +21,7 @@
 
 <table align="center">
 <tr>
-    <td align="center" width="96">
+    <td align="center" width="96"></td>
       <a href="#suhailkakar-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
       </a>
